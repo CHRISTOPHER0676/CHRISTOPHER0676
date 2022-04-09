@@ -8,3 +8,5 @@ num2 = 8
 operate = num * num2
 print (operate)
 
+num = operate / 4
+print(num)
